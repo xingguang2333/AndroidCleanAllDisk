@@ -1,5 +1,5 @@
 # AndroidCleanAllDisk
-## [中文](#中文) | [English](#English)
+## [中文](#中文) | [English](#english)
 ### 中文
 #### 免责声明
 1. 此文件为格机脚本 仅供参考
